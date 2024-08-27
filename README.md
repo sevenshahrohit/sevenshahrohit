@@ -1,3 +1,4 @@
+![logo](https://github.com/sevenshahrohit/sevenshahrohit/blob/main/github.jpeg)
 <h1 align="center">Hi 👋, I'm Rohit Shah</h1>
 <h3 align="center">TechOps Engineer | Aspiring Data Analyst | Leveraging Technical Expertise to Drive Data Driven Insights | One97 Communications | Excel, Python, Power BI, SQL | Data First Mindset</h3>
 <img align="right" alt="Aspiring Data Analyst" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
